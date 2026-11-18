@@ -61,8 +61,8 @@ Each request is checked with Response Assertions:
 
 - 📄 `Project_1.jmx` – JMeter test plan
 - 📈 `Project_1.jtl` – Raw test results
-- 📊 `report/index.html` – HTML dashboard report (open in a browser)
-- 🧾 `report/statistics.json` – Summary statistics
+- 📊 `index.html` – HTML dashboard report (open in a browser)
+- 🧾 `statistics.json` – Summary statistics
 
 ## ▶️ How to Run
 
